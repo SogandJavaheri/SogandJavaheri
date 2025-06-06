@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**SogandJavaheri/SogandJavaheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Sogand Mohammadjavaheri 
 
-Here are some ideas to get you started:
+### Junior Software Developer | Java Enthusiast | Open to Global Opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me  
+I'm a Computer Engineering graduate with a passion for software development. My primary focus is **Java**, but I also have experience with **C**, and a basic understanding of **Python**. I enjoy solving algorithmic problems and building structured, object-oriented applications. I'm actively looking for opportunities in the **European** and **North American** tech markets.
+
+---
+
+## 🛠️ Skills  
+- **Languages**: Java, C, Python (basic)  
+- **Frameworks**: Spring Framework  
+- **Databases**: MySQL, PostgreSQL  
+- **Tools**: Git, IntelliJ, VS Code  
+- **Concepts**: OOP, Data Structures, Algorithms  
+- **Other**: CLI applications, Clean Code, Basic File I/O
+
+---
+
+## 🎯 Goals  
+- Improve my backend development skills using Spring Boot  
+- Learn frontend technologies (React, HTML/CSS/JS)  
+- Collaborate on open-source projects  
+- Work with international teams and gain real-world experience
+
+---
+
+## 📫 Contact Me  
+- 📧 Email: s.mohammadjavaheri@gmail.com  
+- 💼 LinkedIn: [Sogand Mohammadjavaheri]((https://www.linkedin.com/in/sogand-mohammadjavaheri-06a15636a/))  
+- 💻 GitHub: [SogandJavaheri](https://github.com/SogandJavaheri)
+
+---
+
+Thanks for visiting my profile! 🌟
