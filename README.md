@@ -23,7 +23,7 @@ I'm a Computer Engineering graduate with a passion for software development. My 
 
 ## 🎯 Goals  
 - Improve my backend development skills using Spring Boot  
-- Learn frontend technologies (React, HTML/CSS/JS)  
+- Practice frontend development using HTML, CSS, and JavaScript  
 - Collaborate on open-source projects  
 - Work with international teams and gain real-world experience
 
